@@ -1,0 +1,22 @@
+.uk-app {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.uk-app-container {
+    flex: 1;
+}
+
+/* colors */
+.uk-text-white {
+    color: white !important;    
+}
+.uk-button-warning {
+    background-color: #faa05a !important;
+    color: #fff;
+}
+
+.bg-primary {
+    background-color: #070a0d !important;
+}
